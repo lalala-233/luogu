@@ -1,6 +1,7 @@
 *
 
 !.gitignore
+!.clangd
 !.clang-format
 !.clang-tidy
 !**/
