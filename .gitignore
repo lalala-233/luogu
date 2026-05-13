@@ -1,8 +1,9 @@
 *
 
-!.gitignore
 !.clangd
 !.clang-format
 !.clang-tidy
+!.gitignore
+!script.py
 !**/
 !**/*.cpp
